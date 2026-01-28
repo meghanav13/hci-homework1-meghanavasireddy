@@ -7,6 +7,4 @@ for mobile course planning application designed to improve how Penn students dec
 Open `index.html` in a web browser. No additional setup is required.
 
 ## Attributions
-The original UI layout was generated using Figma AI, then built upon.
-The code in this repository was manually written and adapted into static HTML and CSS
-for the purposes of this assignment.
+The code in this repository was partially created using AI generation and then manually adapted into static HTML and CS for the purposes of this assignment.
